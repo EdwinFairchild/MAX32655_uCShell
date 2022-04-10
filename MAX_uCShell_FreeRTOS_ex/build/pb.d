@@ -1,0 +1,24 @@
+/home/eddie/Documents/MAX32655_uCShell/MAX_uCShell_FreeRTOS_ex/build/pb.o: \
+ //home/eddie/MaximSDK/Libraries/Boards/MAX32655/EvKit_V1/../Source/pb.c \
+ /home/eddie/MaximSDK/Tools/GNUTools/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ //home/eddie/MaximSDK/Libraries/PeriphDrivers/Include/MAX32655/mxc_device.h \
+ //home/eddie/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX32655/Include/max32655.h \
+ /home/eddie/MaximSDK/Tools/GNUTools/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h \
+ /home/eddie/MaximSDK/Tools/GNUTools/arm-none-eabi/include/stdint.h \
+ /home/eddie/MaximSDK/Tools/GNUTools/arm-none-eabi/include/machine/_default_types.h \
+ /home/eddie/MaximSDK/Tools/GNUTools/arm-none-eabi/include/sys/features.h \
+ /home/eddie/MaximSDK/Tools/GNUTools/arm-none-eabi/include/_newlib_version.h \
+ /home/eddie/MaximSDK/Tools/GNUTools/arm-none-eabi/include/sys/_intsup.h \
+ /home/eddie/MaximSDK/Tools/GNUTools/arm-none-eabi/include/sys/_stdint.h \
+ //home/eddie/MaximSDK/Libraries/CMSIS/Include/core_cm4.h \
+ //home/eddie/MaximSDK/Libraries/CMSIS/Include/core_cmInstr.h \
+ //home/eddie/MaximSDK/Libraries/CMSIS/Include/core_cmFunc.h \
+ //home/eddie/MaximSDK/Libraries/CMSIS/Include/core_cm4_simd.h \
+ //home/eddie/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX32655/Include/system_max32655.h \
+ //home/eddie/MaximSDK/Libraries/PeriphDrivers/Include/MAX32655/mxc_errors.h \
+ //home/eddie/MaximSDK/Libraries/PeriphDrivers/Include/MAX32655/mxc_pins.h \
+ //home/eddie/MaximSDK/Libraries/PeriphDrivers/Include/MAX32655/gpio.h \
+ //home/eddie/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX32655/Include/gpio_regs.h \
+ //home/eddie/MaximSDK/Libraries/PeriphDrivers/Include/MAX32655/mxc_assert.h \
+ //home/eddie/MaximSDK/Libraries/Boards/MAX32655/EvKit_V1/../Include/pb.h \
+ //home/eddie/MaximSDK/Libraries/PeriphDrivers/Include/MAX32655/gpio.h
